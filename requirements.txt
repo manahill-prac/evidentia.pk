@@ -1,2 +1,3 @@
 
 ollama
+huggingface_hub
