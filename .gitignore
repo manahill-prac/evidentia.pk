@@ -1,4 +1,6 @@
+venv/
 .env
 data_builder.py
 ppc_text.txt
 __pycache__/
+test_fir_output.txt
