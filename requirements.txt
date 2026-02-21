@@ -1,9 +1,8 @@
-
 ollama
+huggingface_hub
 groq
 sentence-transformers
 faiss-cpu
 numpy
 pickle5
 python-dotenv
->>>>>>> obaid-rag-module
