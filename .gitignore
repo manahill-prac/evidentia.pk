@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Virtual environment
 venv/
 env/
@@ -22,3 +23,11 @@ test_image.jpg
 # OS files
 .DS_Store
 Thumbs.db
+=======
+venv/
+.env
+data_builder.py
+ppc_text.txt
+__pycache__/
+test_fir_output.txt
+>>>>>>> obaid-rag-module
